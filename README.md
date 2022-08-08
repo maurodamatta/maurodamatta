@@ -20,5 +20,6 @@ Hi there 👋
 </div>
   
 ##
-  
-   ![Snake animation](https://github.com/maurodamatta/maurodamatta/blob/output/github-contribution-grid-snake.svg)
+<div>
+   ![snake gif](https://github.com/maurodamatta/maurodamatta/blob/output/github-contribution-grid-snake.svg)
+</div>
