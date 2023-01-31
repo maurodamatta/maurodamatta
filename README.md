@@ -1,7 +1,7 @@
 Hi there 👋
 
 
-- 🔭 Atualmente trabalhando com suporte a sistemas na CF informática ( Sistema ERP ).
+- 🔭 Atualmente trabalhando como analista de sistemas na CF informática ( Sistema ERP ).
 - 🌱 Atualmente estudando Java/Banco de dados.
 
 <div>
